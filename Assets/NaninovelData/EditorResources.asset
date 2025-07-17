@@ -423,6 +423,12 @@ MonoBehaviour:
     - name: DamirPhone
       pathPrefix: "Characters/\u0412\u044B"
       guid: 79b878d5507857d4b931e2685c188f80
+    - name: Green
+      pathPrefix: "Characters/\u0412\u044B"
+      guid: 2e69f540d8d3da748b8c8384006e3cbe
+    - name: Red
+      pathPrefix: "Characters/\u0412\u044B"
+      guid: ba84be74aa871ba4eab7dd9ae1d5f02c
   - Id: Unlockables
     Resources: []
   - Id: Movies
